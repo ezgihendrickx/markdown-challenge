@@ -15,12 +15,13 @@ Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 ### Hobbies 
 
- - Watching Tv-series
- - Playing Flute
- - Playing Tennis
- - Jogging
-    - Jogging in the Rozenbroeken park :runner:
-    - Jogging on the street 
+ - Tv-series :movie_camera:
+ - Flute :musical_score:
+ - Sport
+    - Jogging  :runner:
+    - Swimming :swimmer:
+    - Tennis   :tennis:
+    - Cycling  :bicyclist:
 >
 
 #### You can always count on me when... 
