@@ -5,8 +5,7 @@
 
 ![MY photo](/myphoto.jpg)
 
-## Me, in one sentence
-I'm a creative, musiclover an adventurist person who wants always challenges in her life.
+## I'm a creative, musiclover an adventurist person who wants always challenges in her life.
 
 Birthday    | 28/02
 ------------| -------------
@@ -20,7 +19,7 @@ Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
  - Playing Flute
  - Playing Tennis
  - Jogging
-    - Jogging in the Rozenbroeken park
+    - Jogging in the Rozenbroeken park :runner:
     - Jogging on the street 
 >
 
