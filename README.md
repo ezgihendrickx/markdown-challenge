@@ -12,7 +12,7 @@ Birthday    | 28/02
 ------------ | -------------
 Favorite color|  White
 Favorite food| Iskender kebap
-Pinneapple on pizza|<ul><li>[x] Yes</li><li>[ ] No</li></ul>
+Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 ### Hobbies 
 
