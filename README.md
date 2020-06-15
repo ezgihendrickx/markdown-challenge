@@ -36,4 +36,4 @@ When i did interrail with my friends we met with a guy in Italy. When we were go
 
 When i did interrail with my friends we met a guy in Capri and he became our friend and guide.
 
-<<[previous](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)|| Ezgi || [next](https://github.com/fawadrafique/markdown-challenge/blob/master/README.md) >>
+<< [previous](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)|| Ezgi || [next](https://github.com/fawadrafique/markdown-challenge/blob/master/README.md) >>
