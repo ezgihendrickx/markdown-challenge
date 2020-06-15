@@ -12,7 +12,8 @@ Birthday    | 28/02
 ------------ | -------------
 Favorite color|  White
 Favorite food| Iskender kebap
-Pinneapple on pizza| No, thank you
+Pinneapple on pizza|- [x] Yes - [ ] No
+
 
 ### Hobbies 
 
@@ -36,4 +37,4 @@ When i did interrail with my friends we met with a guy in Italy. When we were go
 
 When i did interrail with my friends we met a guy in Capri and he became our friend and guide.
 
-<<[Dries](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)|| Ezgi || [next](https://duckduckgo.com)>>
+<<[Dries](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)|| Ezgi || [Fawad](https://github.com/fawadrafique/markdown-challenge/blob/master/README.md) >>
