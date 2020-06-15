@@ -9,9 +9,9 @@
 I'm a creative, musiclover an adventurist person who wants always challenges in her life.
 
 Birthday    | 28/02
------------- | -------------
+------------| -------------
 Favorite color|  White
-Favorite food| Iskender kebap
+Favorite food | Iskender kebap
 Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 ### Hobbies 
