@@ -1,5 +1,5 @@
 
-# EZGI HENDRICKX 
+# Ezgi Hendrickx
 
 *If you don't try you will never know* 
 
