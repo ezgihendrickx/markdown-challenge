@@ -9,7 +9,7 @@
 
 Birthday    | 28/02
 ------------| -------------
-Favorite color|  White
+Favorite color|  Black & White (Minimalist colors)
 Favorite food | Stuffed Eggplant :eggplant: How to make: https://ezgihendrickx.github.io/orderbelekker/index.html
 Pinneapple on pizza|<ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
